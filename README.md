@@ -1,78 +1,42 @@
 ![Challenge Design](https://github.com/ephraimdjeket/QR-code-component/blob/main/images/desktop-design.jpg)
 
-<div align="center">
- <h1>QR code component</h1>
- <h3>
-    <!-- Netlify Live -->
-    <a href="https://componentqr-code.netlify.app/">
-      Live
-    </a>
-    <span>&nbsp;|&nbsp;</span>
-    <!-- Frontend Mentor Live solution -->
-    <a href="https://github.com/ephraimdjeket/QR-code-component" title="Check My Solution on Frontend Mentor">
-      Solution
-    </a>
-    <span>&nbsp;|&nbsp;</span>
-    <!-- Frontend Mentor Challenge Link -->
-    <a href="https://www.frontendmentor.io/solutions/responsive-qr-code-component-NN_OYu38gy" title="Original Frontend Mentor Challenge Link">
-      Challenge
-    </a>
-  </h3>
-  <div>
-     Source of the project from <a href="https://www.frontendmentor.io/" target="_blank">frontendmentor.io</a>.
-  </div>
-  <h5>
-    <p>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" title="HTML5"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" title="CSS3"/>
-    </p>
-  </h5>
-</div>
+# 🎯 QR Code Component
 
-<br>
-<br>
+🌍 [Live Demo](https://componentqr-code.netlify.app/) &nbsp;|&nbsp;
+📌 [Solution](https://github.com/ephraimdjeket/QR-code-component) &nbsp;|&nbsp;
+🎯 [Challenge](https://www.frontendmentor.io/solutions/responsive-qr-code-component-NN_OYu38gy)
 
-## Table of content:
+---
 
-1. [About the project](#about-the-project)
-1. [Built with](#built-with)
-1. [Useful resources](#useful-resources)
-1. [Acknowledgments](#acknowledgments)
-1. [Follow me](#follow-me)
-   <br>
-   <br>
+## 📖 About the Project
 
-## About the project
+This project is part of the **QR Code Component** challenge from [Frontend Mentor](https://www.frontendmentor.io/). The goal was to build a **responsive card component** containing a QR code and text, ensuring an optimal layout on all screen sizes.
 
-This is my <strong>2<sup>nd</sup></strong> Frontend Mentor challenge.
+### 📱 Features:
+- ✅ Clean and simple design  
+- ✅ Fully responsive (mobile & desktop)  
+- ✅ Uses modern CSS techniques  
 
-This is my solution for the QR code component challenge on Frontend Mentor.
+---
 
-Your users should be able to:
+## 🛠️ Tech Used
+- **HTML5**  
+- **CSS3**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" title="HTML5"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" title="CSS3"/>
 
-- View the optimal layout for the component depending on their device's screen size
+---
 
-## Built with
+## 🔗 Useful Resources
+- **[Figma](https://www.figma.com/)** - Used to check sizes & colors  
 
-For this project I used:
+---
 
-- Semantic HTML5 Markup
-- CSS Custom Variables
-- CSS Flexbox
-- Mobile-First Workflow
+## 🙏 Acknowledgments
+🙌 Huge thanks to [Grace Snow](https://fedmentor.dev/posts/newbie-fm-challenge-order/) for her **Frontend Mentor challenge roadmap**—super helpful!  
 
-## Useful resources
+---
 
-- **Figma** - I use Figma to check the sizes and colors of different elements.
+### 🚀 Happy Coding! 💻✨  
+  
 
-## Acknowledgments
 
-- I'd like to thank [Grace Snow](https://fedmentor.dev/posts/newbie-fm-challenge-order/) for her recommended Frontend Mentor challenge order for junior devs and inspiration to take on these challenges to improve.
-
-## Follow Me
-
-- My website - Coming soon.
-- &nbsp;Discord - dertzeydev
-- &nbsp;X - [@Dertzey](https://x.com/Dertzey_)
-- &nbsp;Github - [@FedLover](https://github.com/ephraimdjeket)
-- &nbsp;Frontend Mentor - [@ephraimdjeket](https://www.frontendmentor.io/profile/ephraimdjeket)
